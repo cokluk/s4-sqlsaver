@@ -1,0 +1,26 @@
+{
+  "name": "s4-sqlsaver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "discord-webhook-node": "^1.1.8",
+    "mysqldump": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cokluk/s4-sqlsaver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cokluk/s4-sqlsaver/issues"
+  },
+  "homepage": "https://github.com/cokluk/s4-sqlsaver#readme"
+}
